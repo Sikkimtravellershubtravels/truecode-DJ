@@ -6,7 +6,6 @@
 
 package djtravels;
 
-import frames.customerWindow;
 import javax.swing.JOptionPane;
 
 /**
