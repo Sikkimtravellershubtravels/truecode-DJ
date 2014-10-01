@@ -147,9 +147,9 @@ public class login_form extends javax.swing.JFrame {
         //password check
         
         
-        MainWindow newMain = new MainWindow();
-        newMain.setLocationRelativeTo(null);
-        newMain.setVisible(true);
+        customerWindow customerW = new customerWindow();
+        customerW.setLocationRelativeTo(null);
+        customerW.setVisible(true);
         this.setVisible(false);
         
     }//GEN-LAST:event_btnLoginActionPerformed
